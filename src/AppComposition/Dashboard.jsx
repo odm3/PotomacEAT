@@ -18,7 +18,6 @@ import Splash from '../AppComposition/Splash';
 class Dashboard extends React.Component {
 
     constructor(props) {
-      console.log(props);
       super(props);
       this.state = {
         open: false

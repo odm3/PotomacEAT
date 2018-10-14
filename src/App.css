@@ -30,3 +30,16 @@
     transform: rotate(360deg);
   }
 }
+
+#fieldCanvas {
+  background-color: #282c34;
+  position: inherit;
+  height: 100%;
+  width:100%;
+}
+
+#fieldImage {
+  max-width: 1920;
+  max-height: 1080;
+}
+
